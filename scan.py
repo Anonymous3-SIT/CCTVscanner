@@ -33,7 +33,7 @@ def main():
     print("{}  |C   \\\__//    | ").format(w)
     print("  |TV   '--'     | ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
-    print("{}  | {}Author  : {}Mr.TamfanX {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
+    print("{}  | {}Author  : {}Mr.TamfanX {} | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
     print("{}  | {}Youtube : {}Anonymous37 {}| {}+62 899-9271-792 {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print ("  {}[ 1 ] {}Italy").format(r,w)
